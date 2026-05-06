@@ -2,10 +2,17 @@ cff-version: 1.2.0
 title: "If There Are a Trillion Species, Then Life May Be Scarce in the Universe"
 message: "If you use this work, please cite it as below."
 type: article
+
 authors:
   - family-names: Webb
     given-names: Jason
     orcid: "https://orcid.org/0009-0005-8903-8607"
+
 year: 2026
+doi: 10.5281/zenodo.20046115
+
 license: CC-BY-4.0
-abstract: "A short research note exploring how a seemingly large number of species becomes small when scaled against the observable universe."
+
+abstract: >
+  A short research note exploring how a seemingly large number
+  of species becomes small when scaled against the observable universe.
